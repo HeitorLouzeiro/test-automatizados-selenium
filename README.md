@@ -29,11 +29,9 @@
 
 <!-- PROJECT LOGO -->
 <br/>
-<h3 align="center">Project Contacts Django</h3>
+<h3 align="center">Automated Login/Register Testing with Selenium</h3>
 
   <p align="center">
-    project_description
-    <br/>
     <br />
     <a href="https://github.com/HeitorLouzeiro/test-automatizados-selenium/issues">Report Bug</a>
     ·
